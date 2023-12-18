@@ -54,10 +54,6 @@ ul li{
     gap: 75px;
 }
 
-.header-link-buttons {
-    display: none;
-}
-
 .logo img{
     width: 75px;
     cursor: pointer;
@@ -572,11 +568,6 @@ nav ul a:hover{
 
     .header-link-button {
         display: none;
-    }
-    
-    .header_btns {
-        display: flex;
-        gap: 20px;
     }
 }
 /* Device Responsive END */
