@@ -6,8 +6,7 @@ This repository showcases a meticulously designed replica of the Starbucks landi
 > HTML5,
 > CSS3
 
-### Clone this repository:
-git clone https://mrsiamabdullah.github.io/starbucks-clone/
+
 
 ### Project Structure
 index.html: Contains the core HTML structure of the landing page.
@@ -17,4 +16,5 @@ Brew up a cup of your favorite coffee and explore the possibilities of CSS desig
 
 
 
-©SIAMABDULLAH
+©SALAANILKUMAR
+
